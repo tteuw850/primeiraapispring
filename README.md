@@ -1,6 +1,6 @@
 # Cadastro de usuário CRUD 🧍💻
 
-Este projeto consiste em uma **API** de  **Cadastramento De Usuários CRUD **. A aplicação foi construída utilizando **Java** com o framework **SPRING BOOT** e o banco de dados relacional local **H2 DATABASE**. A **API** permite cadastrar o usuário, listar os usuários, fazer atualizações no usuário, deletar o usuariário e busca-lo pelo seu id.
+Este projeto consiste em uma **API** de  **Cadastramento De Usuários CRUD**. A aplicação foi construída utilizando **Java** com o framework **SPRING BOOT** e o banco de dados relacional local **H2 DATABASE**. A **API** permite cadastrar o usuário, listar os usuários, fazer atualizações no usuário, deletar o usuariário e busca-lo pelo seu id.
 
 # Funcionalidades 🧍💻
 
